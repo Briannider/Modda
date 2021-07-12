@@ -55,6 +55,9 @@ html, body{
     text-decoration: none;
     color: #ffffff;
 }
+#politicas {
+        font-size: 13px;
+}
 
 footer a{
     text-decoration: none;
@@ -65,5 +68,3 @@ footer a:hover{
     text-decoration: revert;
     color: #121416;
 }
-
-
